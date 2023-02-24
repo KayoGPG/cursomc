@@ -1,0 +1,5 @@
+package com.betha.sistemas.domain;
+
+public class Categoria {
+
+}
