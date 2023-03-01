@@ -1,0 +1,5 @@
+package com.betha.sistemas.services;
+
+public class CategoriaService {
+
+}
