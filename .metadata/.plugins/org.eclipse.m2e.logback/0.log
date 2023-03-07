@@ -235,3 +235,25 @@
 2023-02-27 23:35:02,101 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-02-27 23:35:02,127 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos_Kayo\ws-sts\cursomc\cursomc\src\test\resources
 2023-02-27 23:41:35,003 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-01 17:02:02,182 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-01 17:09:19,042 [Worker-4: Launching cursomc - CursomcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 17:09:19,086 [Worker-4: Launching cursomc - CursomcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos_Kayo\ws-sts\cursomc\cursomc\src\test\resources
+2023-03-01 17:16:09,817 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 17:16:09,825 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos_Kayo\ws-sts\cursomc\cursomc\src\test\resources
+2023-03-01 17:16:43,180 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 17:16:43,186 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos_Kayo\ws-sts\cursomc\cursomc\src\test\resources
+2023-03-01 17:17:21,628 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 17:17:21,633 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos_Kayo\ws-sts\cursomc\cursomc\src\test\resources
+2023-03-01 17:17:39,278 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 17:17:39,283 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos_Kayo\ws-sts\cursomc\cursomc\src\test\resources
+2023-03-01 17:19:06,537 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 17:19:06,542 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos_Kayo\ws-sts\cursomc\cursomc\src\test\resources
+2023-03-01 17:19:37,538 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 17:19:37,544 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos_Kayo\ws-sts\cursomc\cursomc\src\test\resources
+2023-03-01 17:21:14,014 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 17:21:14,022 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos_Kayo\ws-sts\cursomc\cursomc\src\test\resources
+2023-03-01 17:25:49,155 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 17:25:49,160 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos_Kayo\ws-sts\cursomc\cursomc\src\test\resources
+2023-03-01 17:40:25,213 [Worker-23: Launching cursomc - CursomcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 17:40:25,222 [Worker-23: Launching cursomc - CursomcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projetos_Kayo\ws-sts\cursomc\cursomc\src\test\resources
+2023-03-05 19:04:20,531 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
