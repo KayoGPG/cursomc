@@ -1,0 +1,26 @@
+package com.betha.sistemas.domain;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Produto {
+	
+	private Integer id;
+	private String name;
+	private Double preco;
+	
+	private List<Categoria> categorias = new ArrayList<>();
+	
+	public Produto() {
+	}
+
+	public Produto(Integer id, String name, Double preco) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.preco = preco;
+	}
+	
+	
+
+}
